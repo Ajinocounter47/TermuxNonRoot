@@ -1,6 +1,6 @@
 # TermuxNonRoot
 ## Terminal emulator with packages
-## Termux combines powerful terminal emulation with an extensive Linux package collection.
+Termux combines powerful terminal emulation with an extensive Linux package collection.
 - Enjoy the bash and zsh shells.
 - Edit files with nano and vim.
 - Access servers over ssh.
