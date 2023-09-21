@@ -23,26 +23,29 @@ Version 0.118.0 (118)
 suggested Added on 2022-01-11
 ```
 # This version requires Android 7.0 or newer.
-### It is built and signed by F-Droid, and guaranteed to correspond to this source tarball.
+#### It is built and signed by F-Droid, and guaranteed to correspond to this source tarball.
 
 # Permissions
-- view network connections
-## Allows the app to view information about network connections such as which networks exist and are connected.
-- have full network access
-## Allows the app to create network sockets and use custom network protocols. The browser and other applications provide means to send data to the internet, so this permission is not required to send data to the internet.
-- modify or delete the contents of your shared storage
-## Allows the app to write the contents of your shared storage.
-- prevent phone from sleeping
-## Allows the app to prevent the phone from going to sleep.
-- control vibration
-## Allows the app to control the vibrator.
-- run foreground service
-## Allows the app to make use of foreground services.
-= ask to ignore battery optimizations
-## Allows an app to ask for permission to ignore battery optimizations for that app.
-- This app can appear on top of other apps
-## This app can appear on top of other apps or other parts of the screen. This may interfere with normal app usage and change the way that other apps appear.
-- request install packages
-## Allows an application to request installation of packages.
-- read the contents of your shared storage
-## Allows the app to read the contents of your shared storage.
+### view network connections
+- #####  Allows the app to view information about network connections such as which networks exist and are connected.
+### have full network access
+- ##### Allows the app to create network sockets and use custom network protocols. The browser and other applications provide means to send data to the internet, so this permission is not required to send data to the internet.
+### modify or delete the contents of your shared storage
+- ##### Allows the app to write the contents of your shared storage.
+### prevent phone from sleeping
+- ##### Allows the app to prevent the phone from going to sleep.
+### control vibration
+- ##### Allows the app to control the vibrator.
+### run foreground service
+- ##### Allows the app to make use of foreground services.
+### ask to ignore battery optimizations
+- ##### Allows an app to ask for permission to ignore battery optimizations for that app.
+### This app can appear on top of other apps
+- ##### This app can appear on top of other apps or other parts of the screen. This may interfere with normal app usage and change the way that other apps appear.
+### request install packages
+- ##### Allows an application to request installation of packages.
+### read the contents of your shared storage
+- ##### Allows the app to read the contents of your shared storage.
+# Download APK
+### Link: https://f-droid.org/repo/com.termux_118.apk
+
