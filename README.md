@@ -15,3 +15,6 @@ Termux combines powerful terminal emulation with an extensive Linux package coll
 #### installed using the apt package manager known from the Debian and Ubuntu Linux
 #### distributions. Access the built-in help by long-pressing anywhere on the
 #### terminal and selecting the Help menu option to learn more.
+
+# Versions
+#### Although APK downloads are available below to give you the choice, you should be aware that by installing that way you will not receive update notifications and it's a less secure way to download. We recommend that you install the F-Droid client and use that.
