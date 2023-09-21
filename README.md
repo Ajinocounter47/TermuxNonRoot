@@ -9,7 +9,7 @@
 - Check out projects with git and subversion.
 - Run text-based games with frotz.
 
-At first start a small base system is downloaded - desired packages can then be
-installed using the apt package manager known from the Debian and Ubuntu Linux
-distributions. Access the built-in help by long-pressing anywhere on the
-terminal and selecting the Help menu option to learn more.
+## At first start a small base system is downloaded - desired packages can then be
+## installed using the apt package manager known from the Debian and Ubuntu Linux
+## distributions. Access the built-in help by long-pressing anywhere on the
+## terminal and selecting the Help menu option to learn more.
