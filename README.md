@@ -8,7 +8,7 @@ Termux combines powerful terminal emulation with an extensive Linux package coll
 - Use the python console as a pocket calculator.
 - Check out projects with git and subversion.
 - Run text-based games with frotz.
-- 
+  .
 
 ## License: GNU General Public License v3.0 only Website Issue Tracker Source Code Changelog Build Metadata
 #### At first start a small base system is downloaded - desired packages can then be
